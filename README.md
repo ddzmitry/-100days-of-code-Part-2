@@ -11,3 +11,8 @@ PART 2
 	<li>2.Mongo</li>
 	<li>3.Express</li>
 	<li>4.Node.js</li>
+
+	<h2>Day 2</h2>
+<ul>Working with React Native :
+	<li>1.React Native</li>
+	<li>2.Life Cycle</li>
