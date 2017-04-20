@@ -16,3 +16,10 @@ PART 2
 <ul>Working with React Native :
 	<li>1.React Native</li>
 	<li>2.Life Cycle</li>
+
+		<h2>Day 3-4</h2>
+<ul>Working on LAMP Stack :
+	<li>1.Learning fundamentals of PHP</li>
+	<li>2.GET and POST methods</li>
+	<li>3.Working with arrays in PHP</li>
+
