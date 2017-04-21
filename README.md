@@ -23,3 +23,6 @@ PART 2
 	<li>2.GET and POST methods</li>
 	<li>3.Working with arrays in PHP</li>
 
+<h2>Day5</h2>
+<li>Starting on OOP with PHP</li>
+<li>Creating classes</li>
