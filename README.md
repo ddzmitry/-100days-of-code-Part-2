@@ -26,3 +26,7 @@ PART 2
 <h2>Day5</h2>
 <li>Starting on OOP with PHP</li>
 <li>Creating classes</li>
+
+<h2>Day6</h2>
+<li>More PHP</li>
+<li>Creating classes</li>
