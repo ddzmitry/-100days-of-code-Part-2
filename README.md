@@ -30,3 +30,6 @@ PART 2
 <h2>Day6</h2>
 <li>More PHP</li>
 <li>Creating classes</li>
+
+<h2>Day7</h2>
+<li>Working on React</li>
