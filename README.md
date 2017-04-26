@@ -33,3 +33,8 @@ PART 2
 
 <h2>Day7</h2>
 <li>Working on React</li>
+
+<h2>Day8 -9</h2>
+<li>Working on React MERN Stack</li>
+<li>Finishing up with Peoject on React</li>
+<li>More PHP and practice practice pratice</li>
