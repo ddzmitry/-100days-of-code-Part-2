@@ -38,3 +38,9 @@ PART 2
 <li>Working on React MERN Stack</li>
 <li>Finishing up with Peoject on React</li>
 <li>More PHP and practice practice pratice</li>
+
+<h2>Days9 -11 </h2>
+<li>Getting start with final project</li>
+<li>Set up server, front end</li>
+<li>API Research</li>
+
